@@ -8,6 +8,7 @@
 
 //CODE HERE
 
+/*
 let lovesCode = true
 
 if (lovesCode === true){
@@ -16,7 +17,7 @@ if (lovesCode === true){
 else{
   console.log("Coding has its challenges.")
 }
-
+*/
 
 // For problems 2-3 use the following lines of code:
 var amysAge = 29;
@@ -31,6 +32,18 @@ var brittanisBirthYear = 1986;
 */
 
 //CODE HERE
+
+/*
+if (brittanisAge > amysAge){
+  console.log("Brittani is older.")
+}
+else if (brittanisAge === amysAge){
+  console.log("They are the same age.")
+}
+else {
+  console.log("Amy is older.")
+}
+*/
 
 ////////// PROBLEM 3 //////////
 
